@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UGD1001
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me ugenia1001@gmail.com
 
 <!---
